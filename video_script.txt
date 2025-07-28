@@ -1,0 +1,7 @@
+
+Hi, I'm Aditya Rastogi and this is my submission for the Rx.Now AI/ML Developer role.
+
+In this project, I built a heart disease risk prediction system using the UCI Heart Disease dataset.
+I performed data preprocessing, trained a Random Forest model, evaluated its performance using accuracy and SHAP explainability, and built a user-friendly Streamlit app.
+The model achieves over 85% accuracy, and users can input their health parameters to assess their risk instantly.
+Thank you!
